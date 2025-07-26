@@ -15,7 +15,7 @@
 	author={Noh, DongKi and Kim, Hyoung-Rock and Baek, SeungMin},
 	journal={IEEE Robot. Automat. Lett.},
 	year={2025},
-        keywords={Simultaneous localization and mapping;Feature extraction;Sensors;Robots;Three-dimensional displays;Pose estimation;Visualization;Service robots;Laser radar;Odometry;Building components;line measurements;mapping;Manhattan world assumptions},
+        keywords={Humanoid robots; Semantic SLAM; Spatial AI; Scene-aware navigation; Real-time systems},
 
 }
 </code>
