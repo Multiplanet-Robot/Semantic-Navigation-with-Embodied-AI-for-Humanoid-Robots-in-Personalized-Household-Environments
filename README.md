@@ -10,7 +10,7 @@
 # Citation (Accepted for publication in International Conference on Humanoid Robots, July 22, 2025)
 <pre>
 <code>
-@ARTICLE{Walinernoh24,
+@ARTICLE{Semanticnoh25,
  title={Semantic Navigation with Embodied AI for Humanoid Robots in Personalized Household Environments},
 	author={Noh, DongKi and Kim, Hyoung-Rock and Baek, SeungMin},
 	journal={2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids)},
