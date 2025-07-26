@@ -13,7 +13,7 @@
 @ARTICLE{Walinernoh24,
  title={Semantic Navigation with Embodied AI for Humanoid Robots in Personalized Household Environments},
 	author={Noh, DongKi and Kim, Hyoung-Rock and Baek, SeungMin},
-	journal={IEEE Robot. Automat. Lett.},
+	journal={2025 IEEE-RAS 24th International Conference on Humanoid Robots (Humanoids)},
 	year={2025},
         keywords={Humanoid robots; Semantic SLAM; Spatial AI; Scene-aware navigation; Real-time systems},
 
