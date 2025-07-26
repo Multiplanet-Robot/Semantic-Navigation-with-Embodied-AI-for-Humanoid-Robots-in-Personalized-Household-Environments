@@ -4,4 +4,5 @@
  ![](https://www.lge.co.kr/lgekor/asset/company/images/about/ci_img03.jpg)
 
 * DongKi Noh, Advanced Robotics Lab. LG Electronics Inc. (E-mail: dongki.noh@lge.com, dongki.noh@kaist.ac.kr)
+* Hyoung-Rock Kim, Advanced Robotics Lab. LG Electronics Inc. (E-mail: hyoungrock.kim@lge.com )
 * Seungmin Baek, Advanced Robotics Lab. LG Electronics Inc. (E-mail: seungmin2.baek@lge.com)
